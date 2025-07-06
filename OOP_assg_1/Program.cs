@@ -62,6 +62,7 @@ internal class Program
         //        Console.WriteLine($"{c} primary color");
         //        break;
         //    }
+
         //    else
         //    {
         //        Console.WriteLine($"{c} not primary color");
